@@ -10,7 +10,7 @@ CLI tool sederhana untuk mencari definisi kata dalam Kamus Besar Bahasa Indonesi
 ## Instalasi
 
 ### Binary (Recommended)
-Unduh binary terbaru dari halaman [Releases](https://github.com/YOUR_USERNAME/kbbi-cli/releases), lalu pindahkan ke path Anda:
+Unduh binary terbaru dari halaman [Releases](https://github.com/haidaralfarizy/kbbi-cli/releases), lalu pindahkan ke path Anda:
 
 ```bash
 # Contoh untuk Linux/macOS
@@ -20,7 +20,7 @@ sudo mv kbbi /usr/local/bin/
 
 ### Source (Go 1.16+)
 ```bash
-git clone https://github.com/YOUR_USERNAME/kbbi-cli.git
+git clone https://github.com/haidaralfarizy/kbbi-cli.git
 cd kbbi-cli
 go build -o kbbi
 ```
